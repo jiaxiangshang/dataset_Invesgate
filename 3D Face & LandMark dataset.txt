@@ -1,0 +1,147 @@
+/*	*	*	3D Face		*	*	*/
+
+FLORENCE SUPERFACE
+	Homepage
+		https://www.micc.unifi.it/resources/datasets/florence-superface/
+	Subject
+		20 subjects
+	Gender
+		None
+	Age
+		None
+	Num
+		None
+
+	Character
+		low-resolution and high-resolution 3D scans
+	Capture
+		Microsoft Kinect / 3dMD scanner
+	Distance
+		80cm
+	Rotate Angle
+		60-70 
+	Paper
+		Superfaces: A Super-Resolution Model for 3D Faces£¨eccv12£©
+
+
+BU-3DFE
+	Homepage
+		http://www.cs.binghamton.edu/~lijun/Research/3DFE/3DFE_Analysis.html
+		Need email approve
+	Subject
+		100 subjects
+	Gender
+		56% female, 44% male
+	Age
+		18 years to 70 years old
+	Num
+		2500
+	Character
+		2500 facial expression models
+	Capture
+		None
+	Distance
+		None
+	Rotate Angle
+		+45¡ã and -45¡ã 
+	Paper
+		A 3D Facial Expression Database For Facial Behavior Research(icafgr06)
+
+300W-3D
+AFLW2000-3D 
+	Homepage
+		http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/main.htm
+	Subject
+		None
+	Gender
+		None
+	Age
+		None
+	Num
+		2000
+
+	Character
+		None
+	Capture
+		None
+	Distance
+		None
+	Rotate Angle
+		None
+	Paper
+		Face Alignment Across Large Poses: A 3D Solution
+
+FRGC
+	Homepage
+		https://www.nist.gov/programs-projects/face-recognition-grand-challenge-frgc 
+		https://sites.google.com/a/nd.edu/public-cvrl/data-sets
+		Need email approve
+	Subject
+		4,003 
+	Gender
+		None
+	Age
+		None
+	Num
+		None
+	Character
+		The FRGC will consist of three modes: 
+			high resolution still images, 
+			3D images, 
+			multi-images of a person
+	Capture
+		None
+	Distance
+		None
+	Rotate Angle
+		None
+	Paper
+		None
+
+UHDB11 and UHDB31
+	Homepage
+		http://cbl.uh.edu/index.php/pages/research/projects
+		Need email approve - yuhang wu
+	Subject
+		None
+	Gender
+		None
+	Age
+		None
+	Num
+		None
+
+	Character
+		None
+	Capture
+		None
+	Distance
+		None
+	Rotate Angle
+		None
+	Paper	
+
+
+/*	*	*	Face Landmark	*	*	*/
+AFLM
+	Homepage
+		https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/
+	Subject
+		None
+	Gender
+		59% are tagged as female, 41% are tagged as male
+	Age
+		None
+	Num
+		25k annotated faces 		
+
+	Character
+		landmark
+	Capture
+		None
+	Distance
+		None
+	Rotate Angle
+		None
+	Paper
+		None

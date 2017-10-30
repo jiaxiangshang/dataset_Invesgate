@@ -1,0 +1,27 @@
+/*	*	*	3D MVS  	*	*	*/
+Middlebury Stereo Datasets
+	Homepage
+		http://vision.middlebury.edu/stereo/data/
+	Subject
+		2001 datasets - 6 datasets of piecewise planar scenes [1](Sawtooth, Venus, Bull, Poster, Barn1, Barn2)
+		2003 datasets - 2 datasets with ground truth obtained using structured light [2](Cones, Teddy)
+		2005 datasets - 9 datasets obtained using the technique of [2], published in [3, 4](Art, Books, Dolls, Laundry, Moebius, Reindeer, Computer, Drumsticks, Dwarves)
+		2006 datasets - 21 datasets obtained using the technique of [2], published in [3, 4](Aloe, Baby1-3, Bowling1-2, Cloth1-4, Flowerpots, Lampshade1-2, Midd1-2, Monopoly, Plastic, Rocks1-2, Wood1-2)
+		2014 datasets - 33 datasets obtained using the technique of [5]
+	Gender
+		None
+	Age
+		None
+	Num
+		None
+
+	Character
+		None
+	Capture
+		None
+	Distance
+		None
+	Rotate Angle
+		None
+	Paper
+		None

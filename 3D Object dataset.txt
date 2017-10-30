@@ -1,0 +1,70 @@
+/*	*	*	3D Object Classification	*	*	*/
+ModelNet40
+	Homepage
+		http://3dshapenets.cs.princeton.edu/
+	Subject
+		None
+	Gender
+		None
+	Age
+		None
+	Num
+		None
+
+	Character
+		None
+	Capture
+		None
+	Distance
+		None
+	Rotate Angle
+		None
+	Paper
+		None
+
+/*	*	*	3D Object Detection*	*	*/
+Pascal 3D+
+	Homepage
+		http://cvgl.stanford.edu/projects/pascal3d.html
+	Subject
+		None
+	Gender
+		None
+	Age
+		None
+	Num
+		None
+
+	Character
+		None
+	Capture
+		None
+	Distance
+		None
+	Rotate Angle
+		None
+	Paper
+		None
+
+Kitti
+	Homepage
+		http://cvgl.stanford.edu/projects/pascal3d.html
+	Subject
+		None
+	Gender
+		None
+	Age
+		None
+	Num
+		None
+
+	Character
+		None
+	Capture
+		None
+	Distance
+		None
+	Rotate Angle
+		None
+	Paper
+		None
